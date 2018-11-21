@@ -1,5 +1,5 @@
 # Distributed-Systems-Assignment
 
-## System Architecture
+## Technical Architecture
 
 ![Architecture](./DistSystemsAssignmentArchitecture.png)
