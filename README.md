@@ -2,4 +2,4 @@
 
 ## System Architecture
 
-!Architecture](./DistSystemsAssignmentArchitecture.png)
+![Architecture](./DistSystemsAssignmentArchitecture.png)
